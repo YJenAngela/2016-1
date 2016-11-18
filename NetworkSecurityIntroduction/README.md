@@ -36,20 +36,23 @@ Prelude of the Second Run
 - During the left short time, let us study the related topics by using impressive and useful **Python** and **Jupyter IPython platform**, maybe still not effortless on our concerns.
    - Try Ansconda Integration to prevant any problem of installation; <font color="red">**note** we can not solve all the problem in the system of installation</font>.
 - Topics include:
-  - [Basic Python, the tool we use$^{4,9}$](AutomaticTheStaffWithPython/index.ipynb#Ch06---Manipulating-Strings) data layout, passwork ckeck,
+  - [Basic Python, the tool we use<sup>4,9</sup>](AutomaticTheStaffWithPython/index.ipynb#Ch06---Manipulating-Strings) data layout, passwork ckeck,
   - Internet detect tools 
-    - [TCPIP related$^1$, ](tcp_py/TCPIP.ipynb) ICMP, TCP, ZeroMQ, server/client implement 
-    - [Penetration Testing, port scan$^2$](PythonViolent/PythonViolent/CH2/ch2.ipynb) port scan, ping ips at work,
+    - [TCPIP related<sup>1</sup>](tcp_py/TCPIP.ipynb) ICMP, TCP, ZeroMQ, server/client implement 
+    - [Penetration Testing, port scan<sup>2</sup>](PythonViolent/PythonViolent/CH2/ch2.ipynb) port scan, ping ips at work,
   - data retrieve and investigation
-    - [Forensic Investigations$^2$](PythonViolent/PythonViolent/CH3/ch3.ipynb) find killer by exploring meta data,
-    - [Web Scrapy Introduction$^3$](WebScrapingWithPython/python-scraping-master/index.ipynb) Basic of scraper (1), HTML analysis (2), data storing (5), reading web resource, txt,csv,pdf, docx, (6), Image recognition (11), 
+    - [Forensic Investigations<sup>2</sup>](PythonViolent/PythonViolent/CH3/ch3.ipynb) find killer by exploring meta data,
+    - [Web Scrapy Introduction<sup>3</sup>](WebScrapingWithPython/python-scraping-master/index.ipynb) Basic of scraper (1), HTML analysis (2), data storing (5), reading web resource, txt,csv,pdf, docx, (6), Image recognition (11), 
   - log Analysis
     - [Network traffic analysis$^2$](apache/nginx-log-analysis.ipynb#Nginx-log-analysis-with-pandas-and-matplotlib), httpd access log analysis and visualization,
-    - [pcap with log$^6$](pcap/data_hacking-master/index.ipynb#data_hacking) pcap introduction (?)
-  - [Voyage on Web, read data in detail$^3$](WebScrapingWithPython/python-scraping-master/index.ipynb)
+    - [pcap with log<sup>6</sup>](pcap/data_hacking-master/index.ipynb#data_hacking) pcap introduction (?)
+  - [Voyage on Web, read data in detail<sup>3</sup>](WebScrapingWithPython/python-scraping-master/index.ipynb)
   - [Cryptography](PythonCipher/hackingciphers/GermanEnigma.ipynb#Cryptography) Enigma within World War II
-  - [Descrypted Data and Recognition$^{3,4}$](WebScrapingWithPython/python-scraping-master/index.ipynb)
-  - [Security Concerns Come from PHP and related$^5$](PHPHacher/hackerPHP.ipynb#Hacker) Server-client's Security Introduction
+  - [Descrypted Data and Recognition<sup>3,4</sup>](WebScrapingWithPython/python-scraping-master/index.ipynb)
+  - [Security Concerns Come from PHP and related<sup>5</sup>](PHPHacher/hackerPHP.ipynb#Hacker) Server-client's Security Introduction
+
+
+
 
 
 References
