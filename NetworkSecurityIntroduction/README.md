@@ -63,3 +63,7 @@ References
 - [Al Sweigart, Hacking Secret Ciphers with Python, 2013](PythonCipher/HackingSecretCiphersWithPython.pdf),(<font color="#ee22ee">Python2</font>)
 - [Bastian Ballmann, Understanding Network Hacks, Springer, 2012, (<font color="#ee22ee">Python2 and wifi module only for Linux</font>)](PythonHacker/PythonHaching.pdf)
 - [Al Sweigart, Automate the Boring Stuff with Python, No Starch Press, Inc, 2015. (<font color="brown">Python3</font>)](Automate%20the%20Boring%20Stuff%20with%20Python.pdf)
+
+Softwares and Tools
+===
+[Anaconda](https://www.continuum.io/downloads) Try to install it on your Laptop/pc, and bring it to the field!
