@@ -44,7 +44,7 @@ Prelude of the Second Run
     - [Forensic Investigations<sup>2</sup>](PythonViolent/PythonViolent/CH3/ch3.ipynb) find killer by exploring meta data,
     - [Web Scrapy Introduction<sup>3</sup>](WebScrapingWithPython/python-scraping-master/index.ipynb) Basic of scraper (1), HTML analysis (2), data storing (5), reading web resource, txt,csv,pdf, docx, (6), Image recognition (11), 
   - log Analysis
-    - [Network traffic analysis$^2$](apache/nginx-log-analysis.ipynb#Nginx-log-analysis-with-pandas-and-matplotlib), httpd access log analysis and visualization,
+    - [Network traffic analysis<sup>2</sup>](apache/nginx-log-analysis.ipynb#Nginx-log-analysis-with-pandas-and-matplotlib), httpd access log analysis and visualization,
     - [pcap with log<sup>6</sup>](pcap/data_hacking-master/index.ipynb#data_hacking) pcap introduction (?)
   - [Voyage on Web, read data in detail<sup>3</sup>](WebScrapingWithPython/python-scraping-master/index.ipynb)
   - [Cryptography](PythonCipher/hackingciphers/GermanEnigma.ipynb#Cryptography) Enigma within World War II
